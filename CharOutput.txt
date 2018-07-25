@@ -1,0 +1,17 @@
+[Anything in square brackets is a comment]
+[Anything in curly brackets is an input]
+
+What is your name? {test}
+How agile are you? {37}
+How strong are you? {37}
+How tough are you? {37}
+How well rounded are you? {37}
+How much magic can you hold? {37}
+How much magic do you use? {37}
+How efficiently do you move? {37}
+Name: 
+MaxHP: 0
+CurrentHP: 0
+MaxMP: 0
+CurrentMP: 0
+MaxStamina: 0
